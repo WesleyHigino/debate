@@ -1,6 +1,6 @@
 # Transcrição fornecida pelo usuário — versão canônica
 
-Esta é a última transcrição enviada pelo usuário, preservada literalmente na sequência abaixo. Tempos e sobreposições ainda não foram alinhados ao MP3. Pessoa 2 é o cristão de cabelo preto; Pessoa 1 é o ateu de cabelo e barba brancos, com cenário e figurinos originais.
+Esta é a última transcrição enviada pelo usuário, preservada literalmente na sequência abaixo. Tempos e sobreposições ainda não foram alinhados ao MP3. Pessoa 2 é o cristão com cabelo loiro chanel na V8 (cabelo originalmente preto); Pessoa 1 é o ateu de cabelo e barba brancos, com cenário e figurinos originais.
 
 [Pessoa 2 — Cristão]: Para!
 

@@ -1,0 +1,13 @@
+﻿cena,titulo,palavras,inicio_estimado_s,fim_estimado_s,dialogo_e_pausas_estimados_s,duracao_geracao_frames_s,duracao_geracao_references_s,folga_estimada_frames_s,tempos_validados
+1,Abertura e primeira afirmação,15,0,6.055,6.055,8,8,1.945,False
+2,Insistência e repetições,18,6.055,13.051,6.996,8,8,1.004,False
+3,"Senhor, Deus e recusa",16,13.051,19.32,6.269,8,8,1.731,False
+4,Acusação e primeira risada,6,19.32,23.652,4.332,6,8,1.668,False
+5,Continuação sobre o pensamento,19,23.652,30.711,7.06,8,8,0.94,False
+6,Potencial e Bíblia,19,30.711,37.921,7.21,8,8,0.79,False
+7,Capacidade de vencer e fé,17,37.921,44.404,6.482,8,8,1.518,False
+8,Recusa de ajuda duas vezes,14,44.404,49.645,5.241,6,8,0.759,False
+9,Declaração de fé — início do mesmo turno,9,49.645,53.068,3.423,4,8,0.577,False
+10,Final dos tempos e tentativa de falar,15,53.068,58.673,5.605,6,8,0.395,False
+11,E outra! e a correção,18,58.673,65.519,6.846,8,8,1.154,False
+12,Risadas da plateia e pergunta final,3,65.519,69.26,3.741,6,8,2.259,False

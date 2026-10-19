@@ -1,18 +1,18 @@
-# Storyboard V7 — imagens limpas, cena por cena
+# Storyboard V8 — imagens limpas, cena por cena
 
-**Pessoas e palco originais mantidos. Todas as imagens novas estão sem textos, legendas, logotipos, marcas ou contadores.** O detalhamento fica no roteiro e no PDF, fora das imagens.
+**Rostos, figurinos e palco originais mantidos; cabelo do cristão atualizado conforme as referências do usuário. Todas as imagens novas estão sem textos, legendas, logotipos, marcas ou contadores.** O detalhamento fica no roteiro e no PDF, fora das imagens.
 
-![Prancha visual limpa](storyboard/v7/prancha-limpa.png)
+![Prancha visual limpa](storyboard/v8/prancha-limpa.png)
 
-- [Abrir o PDF detalhado — 12 cenas](storyboard/v7/STORYBOARD-V7.pdf)
-- [Ler o roteiro e o cálculo por cena](storyboard/v7/STORYBOARD-V7.md)
-- [Abrir as 12 imagens e os prompts individuais](storyboard/v7/cenas)
-- [Baixar os cálculos em CSV](storyboard/v7/PLANO-CENAS.csv)
-- [Abrir a prévia limpa com áudio](previas/storyboard-v7-limpo-com-audio.mp4)
+- [Abrir o PDF detalhado — 12 cenas](storyboard/v8/STORYBOARD-V8.pdf)
+- [Ler o roteiro e o cálculo por cena](storyboard/v8/STORYBOARD-V8.md)
+- [Abrir as 12 imagens e os prompts individuais](storyboard/v8/cenas)
+- [Baixar os cálculos em CSV](storyboard/v8/PLANO-CENAS.csv)
+- [Abrir a prévia limpa com áudio](previas/storyboard-v8-limpo-com-audio.mp4)
 - [Conferir o diálogo literal](audio/DIALOGO-CANONICO.txt)
 - [Ouvir o áudio original](audio/discussao-original.mp3)
 
-**Pessoa 2 — cristão:** cabelo preto, terno azul-marinho, camisa branca; inicia com “Para!”. **Pessoa 1 — ateu:** cabelo e barba brancos, terno escuro, camisa branca e gravata verde e amarela.
+**Pessoa 2 — cristão:** cabelo loiro dourado em corte chanel/pageboy, com franja reta e laterais volumosas, terno azul-marinho, camisa branca; inicia com “Para!”. **Pessoa 1 — ateu:** cabelo e barba brancos, terno escuro, camisa branca e gravata verde e amarela.
 
 O diálogo continua completo, na ordem enviada pelo usuário: 169 palavras, 22 intervenções e duas marcações de risadas. A única divisão interna de uma fala fica entre as duas frases da intervenção 19, de uma cena para a seguinte, sem adicionar pausa.
 
@@ -24,4 +24,8 @@ A [documentação oficial do Flow](https://support.google.com/flow/answer/163528
 
 A prévia mostra a prancha estática com áudio, sem animação ou lip-sync validado. A adaptação é ficcional; sua identificação fica nesta documentação, não sobre as imagens. O MP3 original permanece intacto. A produção das cenas individuais aguarda revisão do storyboard.
 
-Histórico: [V6 — diálogo canônico](storyboard/STORYBOARD-V6.md). As imagens antigas permanecem como histórico; usar a V7 para os recursos visuais limpos.
+Histórico: [V6 — diálogo canônico](storyboard/STORYBOARD-V6.md). As imagens antigas permanecem como histórico; usar a V8 para os recursos visuais limpos.
+
+## Atualização visual V8
+
+Somente o cabelo do cristão foi alterado: loiro dourado, franja curta reta e grossa, laterais arredondadas volumosas na altura do queixo e pontas voltadas para dentro. O rosto, os traços, as roupas e o cenário foram mantidos como referências. O ateu mantém cabelo e barba brancos. Diálogo, atribuição das vozes e plano de 12 cenas permanecem os mesmos.
