@@ -1,0 +1,386 @@
+{
+  "versao": 7,
+  "status": "estimativa de planejamento; não usar como EDL de cortes do áudio",
+  "fonte_flow": "https://support.google.com/flow/answer/16352836?hl=en",
+  "base_modelo": "Veo 3.1 no Flow",
+  "duracao_mp3_container_s": 69.302857,
+  "duracao_audio_decodificado_s": 69.26,
+  "palavras": 169,
+  "modelo_estimativa": {
+    "segundos_por_palavra": 0.36366863905325447,
+    "margem_por_intervencao_s": 0.15,
+    "risadas_entrada_12_estimadas_s": 2,
+    "risadas_entrada_23_estimadas_s": 2.5,
+    "nota": "Pausas e risadas atribuídas por hipótese, não por medição. Ajustar após alinhamento auditivo."
+  },
+  "cenas": [
+    {
+      "cena": 1,
+      "titulo": "Abertura e primeira afirmação",
+      "entradas": [
+        {
+          "entrada": 1,
+          "literal": "[Pessoa 2 — Cristão]: Para!",
+          "palavras": 1,
+          "duracao_estimada_s": 0.5136686390532544
+        },
+        {
+          "entrada": 2,
+          "literal": "[Pessoa 1 — Ateu]: Eu não sou...",
+          "palavras": 3,
+          "duracao_estimada_s": 1.2410059171597634
+        },
+        {
+          "entrada": 3,
+          "literal": "[Pessoa 2 — Cristão]: Para com essa conversa fiada!",
+          "palavras": 5,
+          "duracao_estimada_s": 1.9683431952662722
+        },
+        {
+          "entrada": 4,
+          "literal": "[Pessoa 1 — Ateu]: Eu sou escravo de mim mesmo!",
+          "palavras": 6,
+          "duracao_estimada_s": 2.332011834319527
+        }
+      ],
+      "palavras": 15,
+      "inicio_estimado_s": 0,
+      "fim_estimado_s": 6.055,
+      "dialogo_e_pausas_estimados_s": 6.055,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 1.945,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-01.png",
+      "atuacao": "Cristão abre com palma de contenção; ateu tenta responder e leva a mão à região do peito.",
+      "camera": "Plano conjunto vertical próximo, preservando ambos nas trocas.",
+      "continuidade": "Concluir com a mão do ateu próxima ao peito; cristão pronto para retomar."
+    },
+    {
+      "cena": 2,
+      "titulo": "Insistência e repetições",
+      "entradas": [
+        {
+          "entrada": 5,
+          "literal": "[Pessoa 2 — Cristão]: Para com essa conversa fiada sua!",
+          "palavras": 6,
+          "duracao_estimada_s": 2.332011834319527
+        },
+        {
+          "entrada": 6,
+          "literal": "[Pessoa 1 — Ateu]: Eu sou escravo de mim mesmo.",
+          "palavras": 6,
+          "duracao_estimada_s": 2.332011834319527
+        },
+        {
+          "entrada": 7,
+          "literal": "[Pessoa 2 — Cristão]: Para com essa conversa fiada sua!",
+          "palavras": 6,
+          "duracao_estimada_s": 2.332011834319527
+        }
+      ],
+      "palavras": 18,
+      "inicio_estimado_s": 6.055,
+      "fim_estimado_s": 13.051,
+      "dialogo_e_pausas_estimados_s": 6.996,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 1.004,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-02.png",
+      "atuacao": "Preservar as duas intervenções idênticas do cristão separadas pela repetição do ateu. Variar pequenos gestos e reações de escuta.",
+      "camera": "Plano conjunto com reenquadramento manual discreto.",
+      "continuidade": "Continuar a tensão e a posição das mãos sem reiniciar o gesto de parar."
+    },
+    {
+      "cena": 3,
+      "titulo": "Senhor, Deus e recusa",
+      "entradas": [
+        {
+          "entrada": 8,
+          "literal": "[Pessoa 1 — Ateu]: Eu não preciso de senhor.",
+          "palavras": 5,
+          "duracao_estimada_s": 1.9683431952662722
+        },
+        {
+          "entrada": 9,
+          "literal": "[Pessoa 2 — Cristão]: Você precisa é de um Deus na sua vida!",
+          "palavras": 9,
+          "duracao_estimada_s": 3.42301775147929
+        },
+        {
+          "entrada": 10,
+          "literal": "[Pessoa 1 — Ateu]: Não preciso.",
+          "palavras": 2,
+          "duracao_estimada_s": 0.877337278106509
+        }
+      ],
+      "palavras": 16,
+      "inicio_estimado_s": 13.051,
+      "fim_estimado_s": 19.32,
+      "dialogo_e_pausas_estimados_s": 6.269,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 1.731,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-03.png",
+      "atuacao": "Ateu recusa senhor; cristão responde com mão aberta; ateu faz a resposta breve sem explicação adicional.",
+      "camera": "Plano médio dos dois ou plano/contraplano motivado por quem fala.",
+      "continuidade": "Ateu termina a recusa com olhar firme; cristão prepara a próxima intervenção."
+    },
+    {
+      "cena": 4,
+      "titulo": "Acusação e primeira risada",
+      "entradas": [
+        {
+          "entrada": 11,
+          "literal": "[Pessoa 2 — Cristão]: Porque você está possuído pelo demônio!",
+          "palavras": 6,
+          "duracao_estimada_s": 2.332011834319527
+        },
+        {
+          "entrada": 12,
+          "literal": "[Risadas]",
+          "palavras": 0,
+          "duracao_estimada_s": 2
+        }
+      ],
+      "palavras": 6,
+      "inicio_estimado_s": 19.32,
+      "fim_estimado_s": 23.652,
+      "dialogo_e_pausas_estimados_s": 4.332,
+      "duracao_geracao_frames_s": 6,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 1.668,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-04.png",
+      "atuacao": "Cristão enfatiza a acusação; ateu reage com incredulidade. Não atribuir a primeira risada a um rosto sem confirmação.",
+      "camera": "Plano próximo do cristão e reação do ouvinte, se houver tempo real.",
+      "continuidade": "Manter a risada na trilha e o cristão pronto para continuar; sem nova plateia visual."
+    },
+    {
+      "cena": 5,
+      "titulo": "Continuação sobre o pensamento",
+      "entradas": [
+        {
+          "entrada": 13,
+          "literal": "[Pessoa 2 — Cristão]: O demônio tomou conta do seu pensamento! Assim como tomou conta dos pensamentos de todos os ateus do mundo!",
+          "palavras": 19,
+          "duracao_estimada_s": 7.059704142011835
+        }
+      ],
+      "palavras": 19,
+      "inicio_estimado_s": 23.652,
+      "fim_estimado_s": 30.711,
+      "dialogo_e_pausas_estimados_s": 7.06,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 0.94,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-05.png",
+      "atuacao": "Cristão pronuncia integralmente as duas frases. Ouvinte reage com testa, mandíbula e postura, sem congelar.",
+      "camera": "Plano médio do cristão, com ombro do ateu como referência espacial.",
+      "continuidade": "Terminar o gesto de ênfase gradualmente; ateu prepara a resposta."
+    },
+    {
+      "cena": 6,
+      "titulo": "Potencial e Bíblia",
+      "entradas": [
+        {
+          "entrada": 14,
+          "literal": "[Pessoa 1 — Ateu]: Eu tenho fé no meu potencial! Na minha capacidade!",
+          "palavras": 9,
+          "duracao_estimada_s": 3.42301775147929
+        },
+        {
+          "entrada": 15,
+          "literal": "[Pessoa 2 — Cristão]: Estava escrito! Estava escrito na Bíblia que isso iria acontecer!",
+          "palavras": 10,
+          "duracao_estimada_s": 3.7866863905325445
+        }
+      ],
+      "palavras": 19,
+      "inicio_estimado_s": 30.711,
+      "fim_estimado_s": 37.921,
+      "dialogo_e_pausas_estimados_s": 7.21,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 0.79,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-06.png",
+      "atuacao": "Ateu enfatiza o próprio potencial; cristão entra com a repetição de “Estava escrito!”. Não fundir nem encurtar as falas.",
+      "camera": "Plano conjunto ou plano/contraplano com no máximo uma troca motivada.",
+      "continuidade": "Cristão conclui com gesto contido; ateu mantém a intenção de completar a ideia."
+    },
+    {
+      "cena": 7,
+      "titulo": "Capacidade de vencer e fé",
+      "entradas": [
+        {
+          "entrada": 16,
+          "literal": "[Pessoa 1 — Ateu]: Na minha capacidade de vencer!",
+          "palavras": 5,
+          "duracao_estimada_s": 1.9683431952662722
+        },
+        {
+          "entrada": 17,
+          "literal": "[Pessoa 2 — Cristão]: Está escrito nisso! Eu fui preparado para não fraquejar em minha fé!",
+          "palavras": 12,
+          "duracao_estimada_s": 4.514023668639054
+        }
+      ],
+      "palavras": 17,
+      "inicio_estimado_s": 37.921,
+      "fim_estimado_s": 44.404,
+      "dialogo_e_pausas_estimados_s": 6.482,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 1.518,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-07.png",
+      "atuacao": "Ateu retoma sua frase; cristão mantém “Está escrito nisso!” e a continuação sobre a fé, exatamente.",
+      "camera": "Plano conjunto para preservar disputa e possíveis sobreposições reais.",
+      "continuidade": "Cristão pode manter mão perto do peito; ateu prepara o próximo gesto."
+    },
+    {
+      "cena": 8,
+      "titulo": "Recusa de ajuda duas vezes",
+      "entradas": [
+        {
+          "entrada": 18,
+          "literal": "[Pessoa 1 — Ateu]: Eu não preciso da ajuda de ninguém! Eu não preciso da ajuda de ninguém!",
+          "palavras": 14,
+          "duracao_estimada_s": 5.241360946745563
+        }
+      ],
+      "palavras": 14,
+      "inicio_estimado_s": 44.404,
+      "fim_estimado_s": 49.645,
+      "dialogo_e_pausas_estimados_s": 5.241,
+      "duracao_geracao_frames_s": 6,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 0.759,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-08.png",
+      "atuacao": "Ateu repete a frase integral duas vezes, com pequena variação corporal. Cristão reage durante a escuta.",
+      "camera": "Plano médio do ateu incluindo as duas mãos, sem cortar articulações.",
+      "continuidade": "Recolher as mãos naturalmente; cristão volta à fala no próximo trecho."
+    },
+    {
+      "cena": 9,
+      "titulo": "Declaração de fé — início do mesmo turno",
+      "entradas": [
+        {
+          "entrada": 19,
+          "fragmento": "a",
+          "literal": "[Pessoa 2 — Cristão]: Eu fui preparado para não fraquejar em minha fé!",
+          "palavras": 9,
+          "duracao_estimada_s": 3.42301775147929
+        }
+      ],
+      "palavras": 9,
+      "inicio_estimado_s": 49.645,
+      "fim_estimado_s": 53.068,
+      "dialogo_e_pausas_estimados_s": 3.423,
+      "duracao_geracao_frames_s": 4,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 0.577,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-09.png",
+      "atuacao": "Cristão inicia a intervenção longa com a declaração de fé. Esta é a primeira frase de uma única fala que continua na cena seguinte.",
+      "camera": "Plano médio contínuo do cristão; usar o mesmo eixo e posição na continuação.",
+      "continuidade": "Obrigatório manter gesto, olhar e respiração em andamento. Não introduzir pausa no áudio."
+    },
+    {
+      "cena": 10,
+      "titulo": "Final dos tempos e tentativa de falar",
+      "entradas": [
+        {
+          "entrada": 19,
+          "fragmento": "b",
+          "literal": "[Pessoa 2 — Cristão]: Porque está escrito na Bíblia que, no final dos tempos, tudo isso iria acontecer!",
+          "palavras": 14,
+          "duracao_estimada_s": 5.091360946745563
+        },
+        {
+          "entrada": 20,
+          "literal": "[Pessoa 1 — Ateu]: Primeiro...",
+          "palavras": 1,
+          "duracao_estimada_s": 0.5136686390532544
+        }
+      ],
+      "palavras": 15,
+      "inicio_estimado_s": 53.068,
+      "fim_estimado_s": 58.673,
+      "dialogo_e_pausas_estimados_s": 5.605,
+      "duracao_geracao_frames_s": 6,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 0.395,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-10.png",
+      "atuacao": "Cristão continua imediatamente a mesma fala. Ateu tenta iniciar “Primeiro...”. Sem novo começo ou silêncio fabricado.",
+      "camera": "Continuação do plano anterior; abrir discretamente para mostrar a tentativa do ateu.",
+      "continuidade": "Ateu começa pequeno gesto, a ser preservado na entrada do cristão na próxima cena."
+    },
+    {
+      "cena": 11,
+      "titulo": "E outra! e a correção",
+      "entradas": [
+        {
+          "entrada": 21,
+          "literal": "[Pessoa 2 — Cristão]: E outra! Antes do mundo acabar, os judeus vão se converter ao cristianismo!",
+          "palavras": 13,
+          "duracao_estimada_s": 4.877692307692309
+        },
+        {
+          "entrada": 22,
+          "literal": "[Pessoa 1 — Ateu]: Primeiro que não é briba!",
+          "palavras": 5,
+          "duracao_estimada_s": 1.9683431952662722
+        }
+      ],
+      "palavras": 18,
+      "inicio_estimado_s": 58.673,
+      "fim_estimado_s": 65.519,
+      "dialogo_e_pausas_estimados_s": 6.846,
+      "duracao_geracao_frames_s": 8,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 1.154,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-11.png",
+      "atuacao": "Cristão intervém com “E outra!” e conclui sua frase; ateu faz a correção exata, sem alterar “briba”.",
+      "camera": "Plano conjunto próximo ou corte único para a reação do ateu, conforme o áudio real.",
+      "continuidade": "Não antecipar risadas antes da correção; preparar reação de surpresa do cristão."
+    },
+    {
+      "cena": 12,
+      "titulo": "Risadas da plateia e pergunta final",
+      "entradas": [
+        {
+          "entrada": 23,
+          "literal": "[Risadas da plateia]",
+          "palavras": 0,
+          "duracao_estimada_s": 2.5
+        },
+        {
+          "entrada": 24,
+          "literal": "[Pessoa 2 — Cristão]: Quem falou briba?!",
+          "palavras": 3,
+          "duracao_estimada_s": 1.2410059171597634
+        }
+      ],
+      "palavras": 3,
+      "inicio_estimado_s": 65.519,
+      "fim_estimado_s": 69.26,
+      "dialogo_e_pausas_estimados_s": 3.741,
+      "duracao_geracao_frames_s": 6,
+      "duracao_geracao_references_s": 8,
+      "folga_estimada_frames_s": 2.259,
+      "tempos_validados": false,
+      "imagem": "cenas/cena-12.png",
+      "atuacao": "Preservar as risadas da plateia e a pergunta do cristão. Sem efeito cômico novo, sem resposta extra, sem substituir por risos dos personagens.",
+      "camera": "Close naturalista do cristão, com referência espacial do interlocutor.",
+      "continuidade": "Encerrar no fim real da trilha; conservar apenas a reação que couber sem inventar tempo."
+    }
+  ]
+}

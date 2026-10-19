@@ -1,17 +1,27 @@
-# Storyboard V6 — diálogo fiel
+# Storyboard V7 — imagens limpas, cena por cena
 
-**Palco e personagens originais mantidos. Cada fala está integralmente registrada na ordem enviada pelo usuário.**
+**Pessoas e palco originais mantidos. Todas as imagens novas estão sem textos, legendas, logotipos, marcas ou contadores.** O detalhamento fica no roteiro e no PDF, fora das imagens.
 
-- [Abrir o PDF do storyboard — 24 entradas](storyboard/STORYBOARD-V6.pdf)
-- [Ler o storyboard completo no GitHub](storyboard/STORYBOARD-V6.md)
+![Prancha visual limpa](storyboard/v7/prancha-limpa.png)
+
+- [Abrir o PDF detalhado — 12 cenas](storyboard/v7/STORYBOARD-V7.pdf)
+- [Ler o roteiro e o cálculo por cena](storyboard/v7/STORYBOARD-V7.md)
+- [Abrir as 12 imagens e os prompts individuais](storyboard/v7/cenas)
+- [Baixar os cálculos em CSV](storyboard/v7/PLANO-CENAS.csv)
+- [Abrir a prévia limpa com áudio](previas/storyboard-v7-limpo-com-audio.mp4)
 - [Conferir o diálogo literal](audio/DIALOGO-CANONICO.txt)
 - [Ouvir o áudio original](audio/discussao-original.mp3)
-- [Abrir a sequência em JSON](storyboard/STORYBOARD-V6.json)
 
-Pessoa 2 — cristão, cabelo preto — inicia com “Para!”. Pessoa 1 — ateu, cabelo e barba brancos — responde. O cenário, os rostos e os figurinos permanecem os do vídeo de referência.
+**Pessoa 2 — cristão:** cabelo preto, terno azul-marinho, camisa branca; inicia com “Para!”. **Pessoa 1 — ateu:** cabelo e barba brancos, terno escuro, camisa branca e gravata verde e amarela.
 
-A sequência tem **22 falas e duas marcações de risadas**. Mantém todas as repetições, frases interrompidas, expressões e pontuação da transcrição mais recente. O trecho final é “[Risadas da plateia]”, seguido de “[Pessoa 2 — Cristão]: Quem falou briba?!”. As antigas legendas resumidas não substituem o diálogo canônico.
+O diálogo continua completo, na ordem enviada pelo usuário: 169 palavras, 22 intervenções e duas marcações de risadas. A única divisão interna de uma fala fica entre as duas frases da intervenção 19, de uma cena para a seguinte, sem adicionar pausa.
 
-O PDF usa quadros extraídos do vídeo original como referências visuais; não apresenta cenas sincronizadas ao áudio. Os tempos e as sobreposições continuam pendentes de conferência no MP3. A adaptação da trilha é ficcional, com publicação autorizada pelo usuário. A produção individual das cenas depende da revisão do storyboard.
+## Plano para Google Flow
 
-Histórico visual: [V5](storyboard/STORYBOARD-V5.md). O diálogo integral e a associação entre falantes devem seguir a V6.
+A [documentação oficial do Flow](https://support.google.com/flow/answer/16352836?hl=en) oferece 4/6/8 segundos nos modos Veo 3.1 com frames e 8 segundos no modo Ingredients/References compatível. Este projeto foi dividido em 12 cenas com teto de 8 segundos. As gerações sugeridas somam 84 segundos no plano com Frames, ou 96 segundos se todos os clipes forem de 8 segundos com References. Na edição, aproveitar apenas o tempo visual necessário ao áudio original.
+
+**Os tempos por cena são estimativas**, calculadas pela distribuição das 169 palavras, com reservas hipotéticas para pausas e risadas, ajustadas ao total de aproximadamente 69,26 segundos decodificados. Não são marcações já conferidas no MP3. O áudio não foi recortado nos intervalos estimados. Antes de gerar e sincronizar, marcar os turnos reais e ajustar os limites sem cortar palavras nem acelerar vozes.
+
+A prévia mostra a prancha estática com áudio, sem animação ou lip-sync validado. A adaptação é ficcional; sua identificação fica nesta documentação, não sobre as imagens. O MP3 original permanece intacto. A produção das cenas individuais aguarda revisão do storyboard.
+
+Histórico: [V6 — diálogo canônico](storyboard/STORYBOARD-V6.md). As imagens antigas permanecem como histórico; usar a V7 para os recursos visuais limpos.

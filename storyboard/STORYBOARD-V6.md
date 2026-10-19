@@ -1,5 +1,7 @@
 # Storyboard V6 — diálogo integral e ordem exata
 
+> Histórico do diálogo. A [V7](v7/STORYBOARD-V7.md) mantém o texto integral e acrescenta imagens limpas e divisão em 12 cenas para Flow.
+
 Esta versão substitui as legendas resumidas da V5 por **24 entradas sequenciais: 22 falas e duas marcações de risadas**. O texto literal abaixo é a versão mais recente enviada pelo usuário. Não foram completadas frases interrompidas, eliminadas repetições ou corrigidas expressões.
 
 - [Abrir o PDF de conferência](STORYBOARD-V6.pdf).
