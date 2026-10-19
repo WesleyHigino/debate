@@ -1,5 +1,7 @@
 # Storyboard V4 — discussão na calçada
 
+> **Versão descartada por correção do usuário.** O cenário e os personagens não deveriam ter sido trocados. Usar a [V5, com cenário e personagens originais](STORYBOARD-V5.md).
+
 **Encenação ficcional • live-action naturalista • áudio original como referência principal.**
 
 ![Storyboard V4](storyboard-v4.png)

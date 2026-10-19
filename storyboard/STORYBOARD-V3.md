@@ -1,6 +1,6 @@
 # Storyboard V3 — discussão cristão × ateu
 
-> Histórico: substituído pela [V4 — discussão na calçada](STORYBOARD-V4.md), com personagens comuns, roupas casuais e ambiente brasileiro cotidiano.
+> Histórico: consultar a [V5](STORYBOARD-V5.md), que preserva cenário e personagens originais e incorpora as novas instruções de atuação. A mudança visual da V4 foi descartada.
 
 **Encenação ficcional em live-action naturalista.** Roteiro baseado na transcrição fornecida pelo usuário e nas características visuais do vídeo de referência. Não é um registro das pessoas retratadas proferindo esse diálogo.
 

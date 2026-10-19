@@ -1,21 +1,21 @@
-# Discussão na calçada — storyboard V4
+# Discussão — storyboard V5
 
-Encenação ficcional de uma discussão informal entre dois brasileiros, em estilo **live-action naturalista**, com câmera documental e áudio original.
+**Cenário e personagens originais preservados.** A V5 mantém o palco televisivo e os dois homens de terno do vídeo de referência. A mudança para uma calçada e roupas casuais da V4 foi descartada por orientação do usuário.
 
-![Storyboard V4](storyboard/storyboard-v4.png)
+![Storyboard V5](storyboard/storyboard-v5.png)
 
-- [Abrir a prancha V4](storyboard/storyboard-v4.png)
-- [Ler o storyboard completo e a direção de atuação](storyboard/STORYBOARD-V4.md)
-- [Abrir a prévia da prancha com áudio](previas/storyboard-v4-com-audio.mp4)
-- [Ouvir ou baixar o MP3 original](audio/discussao-original.mp3)
+- [Abrir a prancha V5](storyboard/storyboard-v5.png)
+- [Ler o storyboard completo](storyboard/STORYBOARD-V5.md)
+- [Abrir a prévia da prancha com áudio](previas/storyboard-v5-com-audio.mp4)
+- [Ouvir o MP3 original fornecido](audio/discussao-original.mp3)
 - [Ler a transcrição fornecida pelo usuário](audio/TRANSCRICAO.md)
 
-**Pessoa 2 — cristão, cabelo preto:** inicia com “Para!”, camiseta verde-escura e calça bege.
+**Pessoa 2 — cristão:** cabelo preto, terno azul-marinho e camisa branca aberta no colarinho; inicia com “Para!”.
 
-**Pessoa 1 — ateu, cabelo e barba brancos:** responde e defende sua independência, polo azul e jeans escuro.
+**Pessoa 1 — ateu:** cabelo e barba brancos, terno escuro, camisa branca e gravata verde e amarela.
 
-A V4 substitui o palco, os ternos e os rostos da referência anterior por personagens ficcionais comuns numa calçada brasileira. Os 12 momentos preservam a ordem textual das intervenções, as risadas e o desfecho com “briba”. Os detalhes de atuação seguem a direção do usuário; a gravação original deve governar a intensidade e o ritmo finais.
+As melhorias são de atuação, escuta, progressão emocional, enquadramentos, biomecânica e continuidade. A narrativa segue a transcrição fornecida, preservando o áudio da discussão. É uma adaptação ficcional; a trilha não é apresentada como áudio autêntico do debate de referência.
 
-**Estado: aguardando revisão do storyboard antes da produção de cenas.** A prévia é uma prancha estática com áudio, sem animação ou sincronização labial. A transcrição veio do usuário; tempos exatos e sobreposições ainda precisam ser conferidos no MP3. O arquivo original é mantido intacto. A publicação pública do áudio e das prévias foi autorizada pelo usuário.
+**Estado:** storyboard para revisão, antes da produção das cenas. A prévia contém a prancha estática com áudio, sem animação ou sincronização labial. Os tempos exatos e as sobreposições precisam ser conferidos no MP3. O arquivo original de áudio permanece intacto; sua publicação e a das prévias foram autorizadas pelo usuário. As imagens geradas orientam o enquadramento e devem ser conferidas contra a identidade dos participantes no vídeo.
 
-Histórico: [V1](storyboard/STORYBOARD.md) · [V2](storyboard/STORYBOARD-V2.md) · [V3](storyboard/STORYBOARD-V3.md).
+Histórico: [V1](storyboard/STORYBOARD.md) · [V2](storyboard/STORYBOARD-V2.md) · [V3](storyboard/STORYBOARD-V3.md) · [V4 descartada](storyboard/STORYBOARD-V4.md).
