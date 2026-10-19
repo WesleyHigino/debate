@@ -1,22 +1,21 @@
-# Debate — discussão encenada
+# Discussão na calçada — storyboard V4
 
-## Storyboard V3: cristão × ateu
+Encenação ficcional de uma discussão informal entre dois brasileiros, em estilo **live-action naturalista**, com câmera documental e áudio original.
 
-![Storyboard V3](storyboard/storyboard-v3.png)
+![Storyboard V4](storyboard/storyboard-v4.png)
 
-- [Abrir o storyboard visual](storyboard/storyboard-v3.png)
-- [Ler a direção dos 12 momentos](storyboard/STORYBOARD-V3.md)
+- [Abrir a prancha V4](storyboard/storyboard-v4.png)
+- [Ler o storyboard completo e a direção de atuação](storyboard/STORYBOARD-V4.md)
+- [Abrir a prévia da prancha com áudio](previas/storyboard-v4-com-audio.mp4)
 - [Ouvir ou baixar o MP3 original](audio/discussao-original.mp3)
-- [Abrir a prévia da prancha com áudio](previas/storyboard-v3-com-audio.mp4)
 - [Ler a transcrição fornecida pelo usuário](audio/TRANSCRICAO.md)
-- [Consultar os dados técnicos do áudio](audio/ANALISE.md)
 
-**O personagem de cabelo preto começa a discussão e interpreta o cristão. O personagem de cabelo branco interpreta o ateu.** A correspondência combina a indicação do usuário de quem começa com a primeira fala da transcrição, “Para!”, atribuída ao cristão. Os números Pessoa 1/Pessoa 2 da transcrição não representam ordem de entrada.
+**Pessoa 2 — cristão, cabelo preto:** inicia com “Para!”, camiseta verde-escura e calça bege.
 
-A V3 organiza as interrupções iniciais, a defesa da autonomia, os argumentos religiosos, as risadas e o encerramento com “briba”. O palco e os figurinos vêm da referência visual; a nova discussão é uma encenação ficcional.
+**Pessoa 1 — ateu, cabelo e barba brancos:** responde e defende sua independência, polo azul e jeans escuro.
 
-O MP3 original está preservado. A prévia de aproximadamente 69,30 segundos exibe a prancha inteira com o áudio completo. É uma peça de revisão, sem animação ou sincronização labial. A transcrição foi fornecida pelo usuário; tempos exatos, sobreposições e alinhamento palavra a palavra ainda não foram verificados.
+A V4 substitui o palco, os ternos e os rostos da referência anterior por personagens ficcionais comuns numa calçada brasileira. Os 12 momentos preservam a ordem textual das intervenções, as risadas e o desfecho com “briba”. Os detalhes de atuação seguem a direção do usuário; a gravação original deve governar a intensidade e o ritmo finais.
 
-**Estado:** storyboard para revisão, antes da produção das cenas. A publicação pública do áudio e da prévia foi autorizada expressamente pelo usuário.
+**Estado: aguardando revisão do storyboard antes da produção de cenas.** A prévia é uma prancha estática com áudio, sem animação ou sincronização labial. A transcrição veio do usuário; tempos exatos e sobreposições ainda precisam ser conferidos no MP3. O arquivo original é mantido intacto. A publicação pública do áudio e das prévias foi autorizada pelo usuário.
 
-Histórico: [V1](storyboard/STORYBOARD.md) · [V2](storyboard/STORYBOARD-V2.md).
+Histórico: [V1](storyboard/STORYBOARD.md) · [V2](storyboard/STORYBOARD-V2.md) · [V3](storyboard/STORYBOARD-V3.md).

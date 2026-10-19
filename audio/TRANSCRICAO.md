@@ -4,8 +4,8 @@ Esta transcrição foi enviada pelo usuário e organiza o conteúdo do áudio. N
 
 ## Correspondência visual
 
-- **Pessoa 2 — Cristão:** personagem de cabelo preto, terno azul-marinho e camisa branca. É quem inicia com “Para!”, de acordo com a abertura indicada pelo usuário.
-- **Pessoa 1 — Ateu:** personagem de cabelo e barba brancos, terno escuro e gravata verde e amarela.
+- **Pessoa 2 — Cristão:** personagem de cabelo preto; na V4, camiseta verde-escura e calça bege. É quem inicia com “Para!”, de acordo com a abertura indicada pelo usuário.
+- **Pessoa 1 — Ateu:** personagem de cabelo e barba brancos; na V4, polo azul e jeans escuro.
 
 Os números de Pessoa vêm da transcrição e não indicam ordem de entrada. Essa associação é uma decisão de encenação ficcional, não uma identificação das crenças das pessoas retratadas.
 
