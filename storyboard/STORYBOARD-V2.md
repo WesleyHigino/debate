@@ -1,5 +1,7 @@
 # Storyboard V2 — discussão
 
+> Histórico: substituído pelo [storyboard V3](STORYBOARD-V3.md), com a transcrição fornecida e a autorização de publicação do áudio. As pendências abaixo descrevem o estado da V2 no momento de sua criação.
+
 **Proposta de encenação ficcional para revisão.** A aparência dos participantes e o palco vêm da referência visual. O MP3 fornecido será a trilha da discussão. Não se trata de registro autêntico dessas pessoas proferindo o áudio.
 
 ![Prancha V2](storyboard-v2.png)
