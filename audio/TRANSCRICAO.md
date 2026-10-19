@@ -1,15 +1,6 @@
-# Transcrição fornecida pelo usuário
+# Transcrição fornecida pelo usuário — versão canônica
 
-Esta transcrição foi enviada pelo usuário e organiza o conteúdo do áudio. Não foi produzida por reconhecimento automático nem alinhada palavra a palavra ao MP3. Tempos, pausas e sobreposições ainda precisam ser conferidos.
-
-## Correspondência visual
-
-- **Pessoa 2 — Cristão:** personagem de cabelo preto, terno azul-marinho e camisa branca aberta no colarinho, conforme a referência original preservada na V5. É quem inicia com “Para!”, de acordo com a abertura indicada pelo usuário.
-- **Pessoa 1 — Ateu:** personagem de cabelo e barba brancos, terno escuro, camisa branca e gravata verde e amarela, conforme a referência original preservada na V5.
-
-Os números de Pessoa vêm da transcrição e não indicam ordem de entrada. Essa associação é uma decisão de encenação ficcional, não uma identificação das crenças das pessoas retratadas.
-
-## Diálogo completo
+Esta é a última transcrição enviada pelo usuário, preservada literalmente na sequência abaixo. Tempos e sobreposições ainda não foram alinhados ao MP3. Pessoa 2 é o cristão de cabelo preto; Pessoa 1 é o ateu de cabelo e barba brancos, com cenário e figurinos originais.
 
 [Pessoa 2 — Cristão]: Para!
 
@@ -55,6 +46,6 @@ Os números de Pessoa vêm da transcrição e não indicam ordem de entrada. Ess
 
 [Pessoa 1 — Ateu]: Primeiro que não é briba!
 
-[Risadas dos participantes]
+[Risadas da plateia]
 
 [Pessoa 2 — Cristão]: Quem falou briba?!

@@ -1,5 +1,7 @@
 # Storyboard V5 — cenário e personagens originais
 
+> **Histórico visual.** Para as falas integrais, repetições e marcações de risadas, usar a [V6](STORYBOARD-V6.md). As âncoras resumidas desta V5 não substituem o diálogo.
+
 **Encenação ficcional • live-action naturalista • áudio original como referência principal.**
 
 ![Storyboard V5](storyboard-v5.png)

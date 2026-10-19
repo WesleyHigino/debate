@@ -1,0 +1,194 @@
+[
+  {
+    "ordem": 1,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Para!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão inicia com palma breve de contenção. Ateu acompanha com olhar e ajuste de postura.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 2,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Eu não sou...",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu tenta responder. Preservar a frase interrompida; não completar seu sentido com palavras novas.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 3,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Para com essa conversa fiada!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão retoma com urgência. Um gesto curto, sem reiniciar a postura de abertura.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 4,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Eu sou escravo de mim mesmo!",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu afirma sua autonomia, com mão próxima do peito e olhar firme.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 5,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Para com essa conversa fiada sua!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão insiste. Preservar a palavra “sua” e reagir corporalmente à resposta anterior.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 6,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Eu sou escravo de mim mesmo.",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu repete a afirmação. Manter a repetição e o ponto final da transcrição, sem substituir pelo trecho anterior.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 7,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Para com essa conversa fiada sua!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão repete a fala completa. Variar o gesto organicamente, sem apagar a repetição.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 8,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Eu não preciso de senhor.",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu sustenta o olhar e recusa a necessidade de senhor. Não substituir “senhor” por outra expressão.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 9,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Você precisa é de um Deus na sua vida!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão se dirige ao outro com mão aberta. Preservar “é de um Deus na sua vida”.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 10,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Não preciso.",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Resposta breve do ateu. Não acrescentar justificativa, prolongar a frase ou trocar o falante.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 11,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Porque você está possuído pelo demônio!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão intensifica a acusação. Ateu escuta com incredulidade; sem antecipar a risada.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 12,
+    "dialogo_literal": "[Risadas]",
+    "referencia_visual": "referencias-v6/conjunto.jpg",
+    "direcao_proposta": "Preservar a primeira ocorrência de risadas. A transcrição não identifica sua origem; não atribuí-la automaticamente a um rosto.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 13,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: O demônio tomou conta do seu pensamento! Assim como tomou conta dos pensamentos de todos os ateus do mundo!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão continua nas duas frases, sem omitir a generalização presente no diálogo. Não inserir uma fala do ateu no meio por decisão editorial.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 14,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Eu tenho fé no meu potencial! Na minha capacidade!",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu enfatiza o próprio potencial e a capacidade. Manter as duas frases integralmente.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 15,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Estava escrito! Estava escrito na Bíblia que isso iria acontecer!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão repete “Estava escrito!” e prossegue com a referência à Bíblia. Não reduzir a uma única frase resumida.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 16,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Na minha capacidade de vencer!",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu retoma sua ideia. Preservar a entrada “Na minha capacidade de vencer!”, sem fundi-la à fala 14.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 17,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Está escrito nisso! Eu fui preparado para não fraquejar em minha fé!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão mantém “Está escrito nisso!” antes de “Eu fui preparado...”. Não corrigir a expressão.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 18,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Eu não preciso da ajuda de ninguém! Eu não preciso da ajuda de ninguém!",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu pronuncia a mesma frase duas vezes dentro desta intervenção. As duas repetições são obrigatórias.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 19,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Eu fui preparado para não fraquejar em minha fé! Porque está escrito na Bíblia que, no final dos tempos, tudo isso iria acontecer!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão repete a declaração sobre a fé e segue até “tudo isso iria acontecer!”. Preservar a fala completa.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 20,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Primeiro...",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu tenta iniciar “Primeiro...”. Manter a hesitação e a interrupção, sem completar a frase.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 21,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: E outra! Antes do mundo acabar, os judeus vão se converter ao cristianismo!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão entra com “E outra!” e conclui a afirmação transcrita. Não trocar esta intervenção pela do ateu.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 22,
+    "dialogo_literal": "[Pessoa 1 — Ateu]: Primeiro que não é briba!",
+    "referencia_visual": "referencias-v6/ateu.jpg",
+    "direcao_proposta": "Ateu faz a correção exatamente como transcrita: “Primeiro que não é briba!”. Não mudar para “Bíblia” nem inventar uma fala anterior com “briba”.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 23,
+    "dialogo_literal": "[Risadas da plateia]",
+    "referencia_visual": "referencias-v6/conjunto.jpg",
+    "direcao_proposta": "Preservar as risadas da plateia indicadas pelo usuário. Não substituí-las por risadas dos participantes ou efeitos novos; não é necessário mostrar a plateia.",
+    "inicio_audio": null,
+    "fim_audio": null
+  },
+  {
+    "ordem": 24,
+    "dialogo_literal": "[Pessoa 2 — Cristão]: Quem falou briba?!",
+    "referencia_visual": "referencias-v6/cristao.jpg",
+    "direcao_proposta": "Cristão faz a pergunta final. Preservar “Quem falou briba?!” e o término real da trilha, sem resposta adicional.",
+    "inicio_audio": null,
+    "fim_audio": null
+  }
+]
