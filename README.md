@@ -1,25 +1,16 @@
-# Debate — storyboard visual
+# Debate — discussão encenada
 
-Planejamento de reconstrução audiovisual em estilo **live-action naturalista**.
+## Storyboard V2
 
-![Storyboard visual com oito quadros](storyboard/storyboard.png)
+![Storyboard V2](storyboard/storyboard-v2.png)
 
-## Material disponível
+- [Abrir a imagem](storyboard/storyboard-v2.png)
+- [Ler a direção dos oito quadros](storyboard/STORYBOARD-V2.md)
 
-- Referência: vídeo vertical de 75,77 segundos, 720 × 1280, 30 fps, H.264.
-- O arquivo recebido contém apenas vídeo, sem faixa de áudio.
-- A imagem acima foi gerada para planejamento; não é uma extração dos quadros originais.
-- Os oito quadros são representativos de blocos aproximados. Não reproduzem todos os cortes.
-- A referência é vertical; os quadros ilustrativos da prancha são horizontais. A composição final deverá ser adaptada para 9:16.
-- O storyboard aguarda revisão do usuário. A produção individual das cenas ainda não começou.
+A abertura foi definida pelo usuário: **o personagem de cabelo preto inicia a discussão**. O áudio enviado passa a ser a referência temporal, com cerca de **1min09,30s**, mantendo o cenário e o estilo live-action naturalista.
 
-Veja o [roteiro do storyboard](storyboard/STORYBOARD.md).
+A V2 propõe enquadramentos verticais, reações de escuta e gestos contidos. A ordem das respostas após a abertura ainda precisa ser validada com a transcrição. Foi preparada uma prévia local com a prancha estática e o áudio completo, sem animação nem sincronização labial. A publicação do MP3 e dessa prévia aguarda autorização explícita para torná-los públicos.
 
-## Próximas etapas
+**Estado:** storyboard para revisão. O conteúdo das falas não foi transcrito: o acesso ao modelo de reconhecimento de voz foi bloqueado. Não foram inferidas crenças, argumentos ou falas a partir do nome do arquivo.
 
-1. Revisar o storyboard.
-2. Receber a versão com áudio ou a trilha correspondente e definir sua preservação.
-3. Conferir falas, falantes, tempos e cortes.
-4. Após aprovação, desenvolver uma cena por vez com atuação, câmera, prompt para Google Flow e continuidade.
-
-A duração-alvo de dez segundos por bloco é uma referência de planejamento, sujeita às falas e aos limites reais da ferramenta de geração.
+A [versão anterior](storyboard/STORYBOARD.md) permanece como histórico do planejamento visual sem áudio.
